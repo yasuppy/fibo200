@@ -3,4 +3,4 @@ git clone https://github.com/yasuppy/fibo200.git
 
 cd リポジトリ名
 
-Python fibo.py
+python fibo.py

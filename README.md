@@ -15,3 +15,6 @@ python3 fibo.py
 
 actinonsに行くとき
 https://github.com/yasuppy/fibo200/actions
+
+Releaseに行くとき
+https://github.com/yasuppy/fibo200/releases

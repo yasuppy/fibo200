@@ -12,3 +12,6 @@ git clone https://github.com/yasuppy/fibo200.git
 cd fibo200
 
 python3 fibo.py
+
+actinonsに行くとき
+https://github.com/yasuppy/fibo200/actions

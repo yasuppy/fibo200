@@ -7,4 +7,4 @@ def fibonacci_upto(limit):
     print()
 
 if __name__ == "__main__":
-    fibonacci_upto(200)
+    fibonacci_upto(1000)

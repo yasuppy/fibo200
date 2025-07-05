@@ -12,6 +12,7 @@ git clone https://github.com/yasuppy/fibo200.git
 cd fibo200
 
 python3 fibo.py
+python3 fibo_prime_compare.py
 
 actinonsに行くとき
 https://github.com/yasuppy/fibo200/actions
